@@ -154,7 +154,11 @@ td{
 			margin-bottom: 50px;
 		}
 		.podhodi--spisok{
-			max-width: 400px;
+			max-width: 600px;
+			margin: 0 auto;	
+		}
+		.podhodi--spisok1{
+			max-width: 250px;
 			margin: 0 auto;	
 		}
 		.messedge--error-spisok{
@@ -168,6 +172,12 @@ td{
 	.messedge--error-spisok2{
 		max-width: 500px;
 			margin: 0 auto;
+			margin-bottom: 50px;
+	}
+	.resolution--testing{
+		max-width: 200px;
+			margin: 0 auto;
+			margin-bottom: 50px;
 	}
 	.table--tools{
 		margin-top: 10px;
@@ -179,6 +189,21 @@ td{
 	.table--tools
 	th{
 		font-size: 10px;
+	}
+	.passing--test_spisok{
+		max-width: 450px;
+			margin: 0 auto;
+			margin-bottom: 50px;
+	}
+	.passing--test_spisok1{
+		max-width: 600px;
+			margin: 0 auto;
+			margin-bottom: 50px;
+	}
+	.test--result_spisok{
+		max-width: 500px;
+			margin: 0 auto;
+			margin-bottom: 50px;
 	}
 	.Statement{
 		margin-bottom: 50px;
