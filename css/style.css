@@ -1,0 +1,228 @@
+body{
+	font-size: 17px;
+	height: 100%;
+	line-height: 1.5;
+	background-color: #e0e0e0;
+	font-family: arial;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	}
+	hr{
+		max-width: 90%;
+	}
+	a{
+		text-decoration: none;
+	}
+	a:hover{
+color: grey;
+	}
+	p{
+		padding-left: 20px;
+		margin: 0;
+		text-align: center;
+	}
+.wrapper{
+	/* max-width: 1900px; */
+	margin: 0 auto;
+	}
+	.header{
+	width: 100%;
+	height: 40px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: #525962FF;
+	border: 1px solid black;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;	
+}
+.header__img{
+	margin-top: 6px;
+	margin-right: 100px;
+	margin-left: 20px;
+	position: absolute;
+	left: 0;
+}
+.italic {
+	font-style: italic;
+	text-decoration: underline;
+ }
+.main {
+	}
+.title {
+	max-width: 250px;
+	margin-left: auto;
+	margin-right: 0;
+	margin-top: 60px;
+	text-align: right;
+	margin-bottom: 200px;
+	padding-right: 30px;
+}
+.title--name {
+	font-weight: 500;
+}
+.title--name-1 {
+	font-size: 10px;
+}
+
+.table--1{
+	max-width: 1024px;
+	width: 100%;
+	border: 1px solid silver;
+	margin: 0 auto;
+	font-size: 10px;
+	margin-bottom: 20px;
+	margin-bottom: 80px;
+	width: td=80%;
+	}
+	.table--1 td{
+		width: 80%;
+		}
+
+td{
+	border: 1px solid silver;
+
+}
+
+.table--2{
+	max-width: 1024px;
+	width: 100%;
+	border: 1px solid silver;
+	margin: 0 auto;
+	font-size: 10px;
+	text-align: center;
+	margin-bottom: 40px;
+	}
+	.ol--content{
+		max-width: 550px;
+		margin: 0 auto;
+		margin-bottom: 50px;
+	}
+
+	.text--vvedenie{
+		max-width: 1024px;
+		margin-bottom: 50px;
+		margin: 0 auto;
+	}
+	.object--testing{
+		max-width: 1024px;
+		margin: 0 auto;
+		margin-bottom: 50px;
+	}
+	.object--testing-spisok{
+		max-width: 300px;
+		margin: 0 auto;
+		margin-bottom: 50px;
+	}
+	.problem--risk{
+		display: block;
+		max-width: 1024px;
+		margin: 0 auto;
+		margin-bottom: 50px;
+	}
+	.function--test-spisok{
+		max-width: 250px;
+		margin: 0 auto;
+		margin-bottom: 50px;
+		}
+		.function--not-testing{
+			text-align: center;
+			margin-bottom: 50px;
+			}
+		.function--not-testing_span{
+		text-decoration: underline;
+		}
+		.podhodi{
+			margin-bottom: 50px;
+		}
+		.podhodi--table, td{
+			max-width: 1024px;
+			margin: 0 auto;
+			padding-left: 20px;
+			margin-bottom: 50px;
+		}
+		.podhodi--spisok{
+			max-width: 400px;
+			margin: 0 auto;	
+		}
+		.messedge--error-spisok{
+			max-width: 300px;
+			margin: 0 auto;
+		}
+	.messedge--error-spisok1{
+		max-width: 350px;
+			margin: 0 auto;
+	}
+	.messedge--error-spisok2{
+		max-width: 500px;
+			margin: 0 auto;
+	}
+	.table--tools{
+		margin-top: 10px;
+		max-width: 1024px;
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.table--tools
+	th{
+		font-size: 10px;
+	}
+	.Statement{
+		margin-bottom: 50px;
+	}
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+	background-color: #556;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	border: 1px solid black;
+		} */
+
+
